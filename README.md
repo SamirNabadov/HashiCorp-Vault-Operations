@@ -1,4 +1,4 @@
-__Hashicorp Vault Operation__
+__HashiCorp Vault Operation__
 ================================
 
 Vault operations based on Python/Bash scripts
