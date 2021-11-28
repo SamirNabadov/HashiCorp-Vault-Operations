@@ -51,7 +51,7 @@ Vault AppRole Automation
 
 `$ python3 python_application_demo.py`
 
-Dynamic secrets database
+Dynamic Secrets Database
 ------------
 `$ cd  dynamic-secrets-database/`
 
