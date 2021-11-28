@@ -1,6 +1,6 @@
 #!/bin/sh
 set -o xtrace
-export VAULT_ADDR=https://vault.dev.eurodesign.az:8200
+export VAULT_ADDR=https://vault.example.az:8200
 export VAULT_TOKEN=root
 export VAULT_SKIP_VERIFY=true
 
