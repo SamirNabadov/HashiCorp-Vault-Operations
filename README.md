@@ -1,7 +1,7 @@
 __Hashicorp Vault Operation__
 ================================
 
-Vault operations based on Python and Bash scripts
+Vault operations based on Python/Bash scripts
 
 
 __Configured__
