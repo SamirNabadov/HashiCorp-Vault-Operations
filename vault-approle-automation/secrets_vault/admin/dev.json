@@ -1,0 +1,3 @@
+{
+    "application.security.authentication.jwt.base64-secret": "test"
+}

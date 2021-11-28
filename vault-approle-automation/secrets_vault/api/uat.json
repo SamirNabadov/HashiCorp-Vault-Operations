@@ -1,0 +1,5 @@
+{
+    "application.security.authentication.jwt.base64-secret": "DDT",
+    "password": "123",
+    "username": "user01"
+  }

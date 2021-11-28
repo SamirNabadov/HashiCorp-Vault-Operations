@@ -1,0 +1,5 @@
+{
+    "database.username": "postgres",
+    "database.password": "test1234",
+    "database.url": "db.postgres.local.az"
+}

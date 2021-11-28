@@ -1,0 +1,16 @@
+apiVersion: cert-manager.io/v1
+kind: Certificate
+metadata:
+  labels:
+    app: test
+  name: test
+  namespace: dev
+spec:
+  commonName: test.example.az
+  dnsNames:
+    - test.example.az
+  issuerRef:
+    kind: ClusterIssuer
+    name: vault-issuer
+  renewBefore: 48h
+  secretName: test

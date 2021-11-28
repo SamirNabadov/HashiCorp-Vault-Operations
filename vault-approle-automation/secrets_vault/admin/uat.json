@@ -1,0 +1,5 @@
+{
+    "application.security.authentication.jwt.base64-secret": "SPF",
+    "password": "123",
+    "username": "user01"
+  }
