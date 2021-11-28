@@ -61,8 +61,8 @@ Dynamic secrets database
 
 __Requirements__
 ------------
-* Python 3.8.10
-* Vault client v1.8.4
+* Python 3.8
+* Vault client
 * Kubernetes Cluster Environment
 * PostgreSQL database
 
