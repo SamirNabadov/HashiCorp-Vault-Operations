@@ -55,6 +55,8 @@ Dynamic Secrets Database
 ------------
 `$ cd  dynamic-secrets-database/`
 
+`$ python3 dynamic_secrets_postgres.py`
+
 `$ python3 python_app_demo_dynamic_secrets.py`
 
 
